@@ -25,16 +25,16 @@ mem\_realloc(void\* addr, size\_t size) reallocates memory at the specified addr
 
 Testing functions:
 
-![](RackMultipart20210106-4-lyyt79_html_e034012f652fe00d.png)
+![](https://user-images.githubusercontent.com/43548404/103768759-c262c200-502b-11eb-894d-5f9a555e1646.png)
 
 One page allocation:
 
-![](RackMultipart20210106-4-lyyt79_html_7979ce6c9cee230.png)
+![](https://user-images.githubusercontent.com/43548404/103768760-c2fb5880-502b-11eb-9873-b6e2c9e9c1b5.png)
 
 Multipage allocation:
 
-![](RackMultipart20210106-4-lyyt79_html_f35b2646d1f644a9.png)
+![](https://user-images.githubusercontent.com/43548404/103768761-c393ef00-502b-11eb-99d4-dc1e13e98b1d.png)
 
 Reallocation:
 
-![](RackMultipart20210106-4-lyyt79_html_ae9f1bb1141e3fa0.png)
+![](https://user-images.githubusercontent.com/43548404/103768762-c393ef00-502b-11eb-91dd-e568f5eec1df.png)
